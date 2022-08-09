@@ -41,6 +41,7 @@ const Layout: React.FC = () => {
                 <Link to='/'><Cell>Home</Cell></Link>
                 <Link to='/tst'><Cell>Tst</Cell></Link>
                 <Link to='/live/intro'><Cell>Intro</Cell></Link>
+                <Link to='/styling/form'><Cell>Form</Cell></Link>
             </Header>
             <hr />
             <Outlet />
